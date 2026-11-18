@@ -31,11 +31,14 @@ git clone https://github.com/Yx-Yvonne/guangzhou-rent-analysis.git
 pip install requests pandas pyecharts pymysql
 ```
 3.运行爬虫采集数据
+
 4.数据清洗，存入 MySQL
+
 5.执行分析脚本，生成图表
 
-预期分析内容：
-广州各区平均租金对比
-租金和房屋面积相关性分析
-热门户型分布统计
-房源区域热力图
+```markdown
+## 预期分析内容
+- 广州各区平均租金对比
+- 租金和房屋面积相关性分析
+- 热门户型分布统计
+- 房源区域热力图
