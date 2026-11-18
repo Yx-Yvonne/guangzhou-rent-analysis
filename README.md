@@ -12,12 +12,14 @@
 - 版本管理：Git + GitHub
 
 ## 目录结构
+```
 guangzhou-rent-analysis/
-├── data/ # 原始数据、清洗后 csv 文件
-├── spider/ # 爬虫代码
-├── analysis/ # 数据分析 & 可视化脚本
-├── sql/ # 建表 SQL
+├── data/                # 原始数据、清洗后csv文件
+├── spider/              # 爬虫代码
+├── analysis/            # 数据分析&可视化脚本
+├── sql/                 # 建表SQL
 ├── README.md
+```
 
 ## 使用步骤
 1. 克隆仓库
