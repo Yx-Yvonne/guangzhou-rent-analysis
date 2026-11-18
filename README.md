@@ -25,8 +25,11 @@ guangzhou-rent-analysis/
 1. 克隆仓库
 ```bash
 git clone https://github.com/Yx-Yvonne/guangzhou-rent-analysis.git
+```
 2. 安装依赖
+```bash
 pip install requests pandas pyecharts pymysql
+```
 3.运行爬虫采集数据
 4.数据清洗，存入 MySQL
 5.执行分析脚本，生成图表
